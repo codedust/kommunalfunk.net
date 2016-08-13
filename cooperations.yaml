@@ -20,6 +20,26 @@
       weblinks:
         - Offizielle Webseite von Freifunk Babenhausen: http://babenhausen.freifunk.net/
         - Blog der Stadtverwaltung, in dem Freifunk erwähnt wird: https://blogs.babenhausen.de/2016/07/28/seite-2-vom-28-07-2016/
+- commune: Bonn
+  geo: [50.7361, 7.1007]
+  cooperations:
+    - name: Unterstützung durch die Stadt Bonn
+      community: bonn
+      description: Der Rat der Stadt Bonn hat am 23.02.2016 beschlossen, offene, freie und nicht kommerzielle WLAN-Netze (insbes. Freifunk) zu fördern. Dazu stellt die Stadt Internetzugänge, Immobilien als Richtfunk-Standorte und zweckgebunden finanzielle Mittel in Höhe von 15.000 EUR zur Versorgung von Unterkünften für Geflüchtete bereit.
+      type: [regugees, backbone, hotspot]
+      start: 2016-02-23
+      weblinks:
+        - Informationsseite der Stadt Bonn zu Freifunk: http://www.bonn.de/rat_verwaltung_buergerdienste/buergerdienste_online/freifunk_wlan_netz/index.html?lang=de
+        - Antrag im Stadtrat zur Unterstüzung von Freifunk: http://www2.bonn.de/bo_ris/daten/o/pdf/15/1511092AA8.pdf
+        - Kostenloses WLAN in Bonn beschlossen, Blog von Sebastian Eckert: http://www.rheinauenschreiber.de/2016/02/kostenloses-wlan-in-bonn-beschlossen/
+    - name: Freifunk Hilft
+      community: bonn
+      description: Die Bonner Freifunker bauen in vielen Unterkünften für Geflüchtete freie Zugangspunkte auf. Die Stadt Bonn unterstützt hier offiziell.
+      type: [refugees]
+      start: 2015-03-01
+      weblinks:
+        - Historie in einer Präsentation von Freifunk KBU: https://kbu.freifunk.net/wiki/images/7/7a/KBU.Freifunk.pdf
+        - Übersicht aller versorgten Unterkünfte im Freifunk-Wiki: https://wiki.freifunk.net/Freifunk_Hilft
 - commune: Darmstadt
   geo: [49.8730, 8.6512]
   cooperations:
