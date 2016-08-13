@@ -1,0 +1,978 @@
+aachen:
+  name: Freifunk Aachen
+  url: http://www.Freifunk-Aachen.de
+altdorf:
+  name: Freifunk Altdorf e.V.
+  url: http://freifunk-altdorf.de
+altena:
+  name: Freifunk Altena
+  url: http://freifunk-altena.de/
+alzey:
+  name: Freifunk Alzey-Worms
+  url: http://www.freifunk-alzey-worms.de
+ansbach:
+  name: Freifunk Ansbach
+  url: https://freifunk-ansbach.de/
+arnsberg:
+  name: Freifunk Arnsberg
+  url: https://www.freifunk-arnsberg.de
+aschaffenburg:
+  name: Freifunk Aschaffenburg
+  url: https://freifunk-franken.de/
+ascheberg:
+  name: Freifunk Ascheberg
+  url: http://freifunk-ascheberg.de
+augsburg:
+  name: Freifunk Augsburg
+  url: http://augsburg.freifunk.net
+bad-saeckingen:
+  name: Freifunk Hochrhein-Hotzenwald
+  url: https://freifunk-3laendereck.net
+badgandersheim:
+  name: Freifunk Bad Gandersheim
+  url: http://bad-gandersheim.freifunk.net/
+badoeynhausen:
+  name: Freifunk Bad Oeynhausen
+  url: http://www.freifunk-badoeynhausen.de
+badoldesloe:
+  name: Freifunk Bad Oldesloe
+  url: http://badoldesloe.freifunk.net
+badpyrmont:
+  name: Freifunk Bad Pyrmont
+  url: http://www.freifunk-badpyrmont.de
+badreichenhall:
+  name: Freifunk Berchtesgadener Land
+  url: http://bgl.freifunk.net/
+badsalzuflen:
+  name: Freifunk Lippe
+  url: http://www.freifunk-lippe.de
+ballenstedt:
+  name: Freifunk Ballenstedt
+  url: https://harz.freifunk.net
+bamberg:
+  name: Freifunk Bamberg
+  url: http://www.freifunk-bamberg.de/
+barnstorf:
+  name: Freifunk Barnstorf
+  url: http://barnstorf.freifunk.net
+barntrup:
+  name: Freifunk Nordlippe
+  url: http://www.freifunk-nordlippe.de
+beilngries:
+  name: Freifunk Beilngries
+  url: https://freifunk-altmuehltal.de
+berau:
+  name: Freifunk Südschwarzwald
+  url: https://freifunk-3laendereck.net
+bergischgladbach:
+  name: Freifunk Bergisch Gladbach
+  url: http://ffgl.eu
+berlin:
+  name: Freifunk Berlin
+  url: http://berlin.freifunk.net/
+bestwig:
+  name: Freifunk Bestwig
+  url: http://freifunk-bestwig.de
+bielefeld:
+  name: Freifunk Bielefeld
+  url: http://freifunk-bielefeld.de
+biggesee:
+  name: Freifunk Biggesee
+  url: http://www.freifunk-biggesee.de
+bingen:
+  name: Freifunk Bingen
+  url: https://www.freifunk-bingen.de
+bochum:
+  name: Freifunk Bochum
+  url: http://freifunk-bochum.de
+boenen:
+  name: Bönen, eine Gemeinde vernetzt sich!
+  url: https://www.freifunk-boenen.de/
+bonn:
+  name: Freifunk KBU
+  url: https://kbu.freifunk.net
+borken:
+  name: Freifunk Borken
+  url: https://freifunk-borken.de
+bottrop:
+  name: Freifunk Bottrop
+  url: http://freifunk-ruhrgebiet.de
+brakel:
+  name: Freifunk Hochstift - Brakel
+  url: https://hochstift.freifunk.net/
+brandenburg:
+  name: Freifunk Brandenburg
+  url: https://freifunk-brandenburg.de
+braunlage:
+  name: Braunlage
+  url: https://harz.freifunk.net/
+braunschweig:
+  name: Freifunk Braunschweig
+  url: https://freifunk-bs.de
+bremen:
+  name: Freifunk Bremen
+  url: http://bremen.freifunk.net
+brueggen:
+  name: Freifunk Brueggen
+  url: http://freifunk-ruhrgebiet.de
+burscheid:
+  name: Freifunk gl.wupper
+  url: http://gl.wupper.freifunk-rheinland.net
+butzbach:
+  name: Freifunk Butzbach
+  url: https://www.freifunk-butzbach.de
+castrop:
+  name: Freifunk Castrop-Rauxel
+  url: http://freifunk-ruhrgebiet.de
+celle:
+  name: Freifunk Celle
+  url: https://freifunk-celle.de
+chemnitz:
+  name: Freifunk Chemnitz e.V.
+  url: http://www.chemnitz.freifunk.net
+coburg:
+  name: Freifunk Coburg
+  url: https://freifunk-franken.de/
+cottbus:
+  name: Freifunk Cottbus
+  url: https://freifunk-cottbus.de
+crailsheim:
+  name: Freifunk Crailsheim
+  url: https://freifunk-franken.de/
+cuxhaven:
+  name: Freifunk Nord
+  url: https://nord.freifunk.net
+daendorf:
+  name: Freifunk Dändorf
+  url: https://www.opennet-initiative.de/
+darmstadt:
+  name: Freifunk Darmstadt
+  url: http://darmstadt.freifunk.net
+datteln:
+  name: Freifunk Ostvest
+  url: http://freifunk-ostvest.de
+detmold:
+  name: Freifunk Lippe
+  url: http://www.freifunk-lippe.de
+dillingen:
+  name: freifunk-saar
+  url: http://freifunk-saar.de
+dithmarschen:
+  name: Freifunk Dithmarschen
+  url: https://dithmarschen.freifunk.net
+doebeln:
+  name: Freifunk Doebeln
+  url: http://www.freifunk-mittelsachsen.de
+donauwoerth:
+  name: Freifunk Donauwörth
+  url: http://www.freifunk-donau-ries.de
+dorsten:
+  name: Freifunk Dorsten
+  url: http://freifunk-ruhrgebiet.de
+dortmund:
+  name: Freifunk Dortmund
+  url: http://www.freifunk-dortmund.de
+dresden:
+  name: Freifunk Dresden
+  url: http://www.freifunk-dresden.de/
+dueren:
+  name: Freifunk Düren
+  url: http://freifunk-dueren.de/
+duesseldorf:
+  name: Freifunk Düsseldorf
+  url: https://freifunk-duesseldorf.de
+duisburg:
+  name: Freifunk Duisburg
+  url: http://freifunk-ruhrgebiet.de
+eberswalde:
+  name: Freifunk Eberswalde
+  url: http://eberswalde.freifunk.net/
+eggerbach:
+  name: Freifunk Eggerbach
+  url: http://wiki.freifunk.net/Freifunk_Eggerbach
+eltville:
+  name: Freifunk Rheingau-Taunus
+  url: https://www.freifunk-rheingau.de
+emskirchen:
+  name: Freifunk Emskirchen
+  url: http://www.freifunk-emskirchen.de/
+engelskirchen:
+  name: Freifunk Engelskirchen
+  url: https://freifunk-engelskirchen.de
+erfurt:
+  name: Freifunk Erfurt
+  url: http://erfurt.freifunk.net
+erlangen:
+  name: Freifunk Erlangen
+  url: https://freifunk-franken.de/
+eschweiler:
+  name: Freifunk Eschweiler
+  url: https://www.freifunk-eschweiler.de
+essen:
+  name: Freifunk Essen
+  url: https://freifunk-essen.de
+essingen:
+  name: Freifunk Essingen
+  url: http://freifunk-essingen.de
+euskirchen:
+  name: FreifunkEuskirchen
+  url: http://www.freifunk-euskirchen.de
+flensburg:
+  name: Freifunk Flensburg
+  url: http://freifunk-flensburg.de
+forchheim:
+  name: Freifunk Ebermannstadt
+  url: http://freifunk-ebs.de/
+frankenberg:
+  name: Freifunk Frankenberg
+  url: https://www.freifunk-frankenberg.de
+frankfurt_am_main:
+  name: Freifunk Frankfurt am Main
+  url: https://ffm.freifunk.net
+freiburg:
+  name: Freifunk Freiburg
+  url: https://freiburg.freifunk.net
+fuerth:
+  name: Freifunk Fürth
+  url: https://freifunk-franken.de/
+fulda:
+  name: Freifunk Fulda
+  url: https://fulda.freifunk.net
+gadow:
+  name: Freifunk Gadow
+  url: http://www.freifunk-gadow.de
+gardelegen:
+  name: Gardelegen
+  url: https://www.gardelegen-freifunk.de/wordpress
+gebrazhofen:
+  name: FreifunkLeutkirch
+  url: http://wiki.freifunk.net/Freifunk_Leutkirch
+gelsenkirchen:
+  name: Freifunk Gelsenkirchen
+  url: http://freifunk-gelsenkirchen.de/
+gera:
+  name: Freifunk Gera-Greiz
+  url: https://www.freifunk-gera-greiz.de
+geroldshofstetten:
+  name: Freifunk Südschwarzwald
+  url: https://freifunk-3laendereck.net
+gevelsberg:
+  name: Freifunk Gevelsberg
+  url: http://freifunk-ruhrgebiet.de
+giessen:
+  name: giessen.freifunk.net
+  url: http://wiki.freifunk.net/Freifunk_Gie%C3%9Fen
+gladbeck:
+  name: Freifunk Gladbeck
+  url: http://freifunk-ruhrgebiet.de
+goeldenitz:
+  name: Freifunk Göldenitz
+  url: https://www.opennet-initiative.de/
+goettingen:
+  name: Freifunk Göttingen
+  url: http://freifunk-goettingen.de
+graz:
+  name: Funkfeuer Graz
+  url: http://graz.funkfeuer.at
+grefrath:
+  name: Freifunk Grefrath
+  url: http://freifunk-grefrath.de
+greifswald:
+  name: Freifunk Greifswald
+  url: http://greifswald.freifunk.net
+greiz:
+  name: Freifunk Gera-Greiz
+  url: https://www.freifunk-gera-greiz.de
+grenzach:
+  name: Freifunk Dreiland
+  url: https://freifunk-3laendereck.net
+gronau:
+  name: Freifunk Gronau
+  url: http://gronau.freifunk.net
+grossbasel:
+  name: Freifunk Dreiland
+  url: https://freifunk-3laendereck.net
+guetersloh:
+  name: Freifunk Gütersloh
+  url: http://guetersloh.freifunk.net
+gummersbach:
+  name: Freifunk Gummersbach
+  url: http://freifunk-gummersbach.de/
+hagen:
+  name: Freifunk Hagen
+  url: http://www.freifunk-hagen.net
+halle:
+  name: Freifunk Halle
+  url: http://www.freifunk-halle.org
+halle_westfalen:
+  name: Freifunk Kreis Gütersloh
+  url: http://guetersloh.freifunk.net
+hamburg:
+  name: Freifunk Hamburg
+  url: https://hamburg.freifunk.net/
+hamm:
+  name: Freifunk Hamm
+  url: http://freifunk-ruhrgebiet.de
+hannover:
+  name: Freifunk Hannover
+  url: https://hannover.freifunk.net
+hartha:
+  name: Freifunk Hartha
+  url: http://www.freifunk-mittelsachsen.de
+hassberge:
+  name: Freifunk Haßberge
+  url: http://www.freifunk-hassberge.de/
+hassloch:
+  name: Freifunk Haßloch
+  url: https://www.freifunk-hassloch.de
+heiligenhaus:
+  name: Heiligenhaus
+  url: http://freifunk-neanderfunk.de/
+heilsbronn:
+  name: Freifunk Heilsbronn
+  url: http://www.freifunk-heilsbronn.de/
+helgoland:
+  name: Helgoland
+  url: http://helgoland.freifunk.net
+helmstedt:
+  name: Freifunk Helmstedt
+  url: http://freifunk-helmstedt.de
+hemer:
+  name: Freifunk Hemer
+  url: http://freifunk-felsenmeer.de/
+hennef:
+  name: Freifunk Hennef
+  url: http://www.freifunk-hennef.de
+herford:
+  name: Freifunk Herford
+  url: http://herford.freifunk.net
+herne:
+  name: Freifunk Herne
+  url: http://freifunk-ruhrgebiet.de
+herten:
+  name: Freifunk Herten
+  url: http://freifunk-ruhrgebiet.de
+herten-baden:
+  name: Freifunk Hochrhein-Hotzenwald
+  url: https://freifunk-3laendereck.net
+hilchenbach:
+  name: Freifunk Hilchenbach
+  url: https://siegerland.freifunk.net/
+hilden:
+  name: Freifunk Hilden
+  url: https://www.facebook.com/freifunkhilden/
+hildesheim:
+  name: Freifunk Hildesheim
+  url: http://freifunk-hi.de
+himmelpfort:
+  name: Freifunkinitiative Himmelpfort
+  url: https://hksc.de/freifunk-himmelpfort.html
+hoechenschwand:
+  name: Freifunk Südschwarzwald
+  url: https://freifunk-3laendereck.net
+hof:
+  name: Freifunk Landkreis Hof
+  url: https://freifunk-franken.de/
+hueckeswagen:
+  name: Freifunk Hückeswagen
+  url: http://freifunk-hueckeswagen.de
+huenxe:
+  name: Freifunk Hünxe
+  url: http://freifunk-huenxe.de
+ibbenbueren:
+  name: Freifunk Ibbenbüren e.V.
+  url: https://freifunk-ibbenbueren.net
+ilmenau:
+  name: Freifunk Ilmenau
+  url: http://ilmenau.freifunk.net
+ingolstadt:
+  name: Freifunk Ingolstadt
+  url: https://freifunk-ingolstadt.de
+innsbruck:
+  name: Freifunk Innsbruck
+  url: https://www.freifunk-innsbruck.at
+ippensen:
+  name: Freifunk Ippensen
+  url: http://ippensen-freifunk.net
+iserlohn:
+  name: Freifunk Iserlohn
+  url: http://freifunk-iserlohn.de
+jena:
+  name: Freifunk Jena
+  url: https://freifunk-jena.de
+juechen:
+  name: Freifunk Juechen
+  url: http://freifunk-juechen.de
+kaiserslautern:
+  name: Freifunk Westpfalz
+  url: https://www.freifunk-westpfalz.de
+karlsruhe:
+  name: Freifunk Karlsruhe
+  url: http://www.freifunk-karlsruhe.de
+kassel:
+  name: Freifunk Kassel
+  url: https://freifunk-kassel.de/
+kavelstorf:
+  name: Freifunk Kavelstorf
+  url: https://www.opennet-initiative.de/
+kempen:
+  name: Kempen
+  url: https://wiki.freifunk-rheinland.net/Kempen
+kiel:
+  name: Freifunk Kiel
+  url: http://freifunk.in-kiel.de
+kitzingen:
+  name: Kitzingen
+  url: https://www.freifunk-kitzingen.de
+klein-basel:
+  name: Freifunk Dreiland
+  url: https://freifunk-3laendereck.net
+kleve:
+  name: Freifunk Kleve
+  url: http://freifunk-ruhrgebiet.de
+koeln:
+  name: Freifunk KBU
+  url: https://kbu.freifunk.net
+koenigsee:
+  name: Koenigsee.Freifunk.net
+  url: http://Freifunk.Schwarzburg-Rudolstadt.de
+koenigslutter:
+  name: Freifunk Königslutter
+  url: http://freifunk-elm-lappwald.de
+krefeld:
+  name: Freifunk Krefeld
+  url: http://freifunk-ruhrgebiet.de
+kuerten:
+  name: Kürten
+  url: http://kuerten.freifunk.net
+landau:
+  name: Freifunk Südpfalz
+  url: https://www.freifunk-suedpfalz.de
+landshut:
+  name: Freifunk Landshut
+  url: http://freifunk-landshut.de
+lauchringen:
+  name: Freifunk Waldshut-Tiengen-Klettgau
+  url: https://freifunk-3laendereck.net
+lauenburg:
+  name: Freifunk Herzogtum Lauenburg
+  url: http://www.freifunk-lauenburg.de
+lauf_an_der_pegnitz:
+  name: Freifunk Lauf an der Pegnitz
+  url: https://freifunk-franken.de/
+leer:
+  name: Leeraner Freifunk
+  url: http://www.leeraner-freifunk.de
+leichlingen:
+  name: Freifunk Leichlingen
+  url: https://freifunk-leichlingen.net/
+leipzig:
+  name: Freifunk Leipzig
+  url: http://leipzig.freifunk.net
+leisnig:
+  name: Freifunk Leisnig
+  url: http://www.freifunk-mittelsachsen.de
+lemgo:
+  name: Freifunk Lippe
+  url: http://www.freifunk-lippe.de
+leverkusen:
+  name: Freifunk Leverkusen
+  url: http://freifunk-leverkusen.de
+limburg:
+  name: Freifunk Limburg
+  url: http://freifunk-limburg.de
+lindlar:
+  name: Freifunk Lindlar
+  url: http://freifunk-lindlar.net/
+loerrach:
+  name: Freifunk Lörrach-Oberrhein
+  url: https://freifunk-3laendereck.net
+lohmar:
+  name: Freifunk Lohmar
+  url: http://freifunk-lohmar.de
+luebeck:
+  name: Freifunk Lübeck
+  url: https://luebeck.freifunk.net
+luedenscheid:
+  name: Freifunk Lüdenscheid
+  url: http://freifunk-luensche.de/
+lueneburg:
+  name: Freifunk Lüneburg
+  url: http://freifunk-lueneburg.de
+luenen:
+  name: Freifunk Lünen
+  url: http://freifunk-ruhrgebiet.de
+luxembourg:
+  name: Freifunk Luxembourg
+  url: https://freifunk.lu/
+magdeburg:
+  name: Freifunk Magdeburg
+  url: https://md.freifunk.net/
+mainz:
+  name: Freifunk Mainz
+  url: http://www.freifunk-mainz.de
+malente:
+  name: Freifunk Malente
+  url: https://malente.freifunk.net
+mannheim:
+  name: Freifunk Rhein-Neckar
+  url: https://freifunk-rhein-neckar.de
+marburg:
+  name: Freifunk Marburg
+  url: https://marburg.freifunk.net/
+marienheide:
+  name: Freifunk Marienheide
+  url: https://freifunk-marienheide.net
+markdorf:
+  name: Freifunk Markdorf
+  url: https://ffbsee.de
+marktoberdorf:
+  name: Freifunk Ostallgaeu
+  url: http://www.freifunk-ostallgaeu.de
+maulburg:
+  name: Freifunk Wiesental
+  url: https://freifunk-3laendereck.net
+mayen-koblenz:
+  name: Freifunk Mayen-Koblenz
+  url: http://freifunk-myk.de
+meckenheim:
+  name: Freifunk Meckenheim
+  url: https://www.freifunk-meckenheim.de/
+meinerzhagen:
+  name: Freifunk Meinerzhagen
+  url: http://freifunk-meinerzhagen.de/
+meiningen:
+  name: Freifunk Meiningen
+  url: http://freifunk-meiningen.de
+meissen:
+  name: Freifunk Meißen
+  url: http://meissen.stadtlog.com/freifunk-meissen/
+menden:
+  name: Freifunk Menden
+  url: http://freifunk-ruhrgebiet.de
+merzig-wadern:
+  name: Freifunk Merzig-Wadern
+  url: https://saar.freifunk.net/merzig-wadern/
+meschede:
+  name: Freifunk Meschede
+  url: http://www.freifunk-meschede.net
+mettmann:
+  name: Freifunk Mettmann
+  url: http://www.freifunk-mettmann.de
+michelbach-le-haut:
+  name: Freifunk Dreiland
+  url: https://freifunk-3laendereck.net
+minden:
+  name: Freifunk Minden
+  url: http://www.freifunk-minden.de
+mittweida:
+  name: Freifunk Mittweida
+  url: http://www.freifunk-mittelsachsen.de
+moehnesee:
+  name: Freifunk Möhnesee
+  url: http://www.freifunk-moehne.de
+moenchengladbach:
+  name: Freifunk Moenchengladbach
+  url: http://freifunk-ruhrgebiet.de
+moers:
+  name: Freifunk Moers
+  url: http://freifunk-moers.de
+montabaur:
+  name: Freifunk Westerwald
+  url: https://freifunk-westerwald.de
+much:
+  name: Freifunk Much
+  url: http://www.freifunk-rhein-sieg.de/
+muelheim:
+  name: Freifunk Muelheim an der Ruhr
+  url: http://freifunk-ruhrgebiet.de
+muenchen:
+  name: Freifunk München
+  url: https://ffmuc.net/
+muenden:
+  name: Freifunk Münden
+  url: http://freifunk-hannmuenden.de
+muensterland:
+  name: Freifunk Muensterland
+  url: https://freifunk-muensterland.de
+nettetal:
+  name: Freifunk Nettetal
+  url: http://freifunk-ruhrgebiet.de
+neuenburg-am-rhein:
+  name: Freifunk Lörrach-Oberrhein
+  url: https://freifunk-3laendereck.net
+neuendettelsau:
+  name: Freifunk Neuendettelsau
+  url: http://www.freifunk-neuendettelsau.de/
+neuenrade:
+  name: Freifunk Neuenrade
+  url: http://freifunk-neuenrade.de/
+neukirchen-vluyn:
+  name: Freifunk Neukirchen Vluyn
+  url: http://freifunk-nv.de
+neumuenster:
+  name: Freifunk Neumünster
+  url: https://nms.freifunk.net
+neunkirchen:
+  name: Freifunk Neunkirchen
+  url: https://saar.freifunk.net/neunkirchen/
+neunkirchen-seelscheid:
+  name: Freifunk Neunkirchen-Seelscheid
+  url: http://www.freifunk-rhein-sieg.de/
+neuss:
+  name: Freifunk Neuss
+  url: http://www.freifunk-neuss.de
+neustadt-aisch:
+  name: Freifunk Neustadt-Aisch
+  url: http://www.freifunk-emskirchen.de/
+neustadt-weinstrasse:
+  name: Freifunk Weinstrasse
+  url: http://www.freifunk-weinstrasse.de
+neuwied:
+  name: Neuwied
+  url: http://freifunk-neuwied.de
+niederkassel:
+  name: Freifunk Niederkassel
+  url: http://www.freifunk-niederkassel.de/
+niex:
+  name: Freifunk Niex
+  url: https://www.opennet-initiative.de/
+nordfriesland:
+  name: Freifunk Nordfriesland
+  url: https://nord.freifunk.net
+nordheide:
+  name: Freifunk Nordheide
+  url: https://nordheide.freifunk.net
+nuernberg:
+  name: Freifunk Nürnberg
+  url: https://freifunk-franken.de/
+oberhausen:
+  name: Freifunk Oberhausen
+  url: http://freifunk-ruhrgebiet.de
+obernkirchen:
+  name: Freifunk Obernkirchen
+  url: http://www.freifunk-obernkirchen.de/
+odenthal:
+  name: Freifunk gl.wupper
+  url: http://gl.wupper.freifunk-rheinland.net
+offenbach/queich:
+  name: Freifunk Südpfalz
+  url: https://www.freifunk-suedpfalz.de
+offenburg:
+  name: Freifunk Ortenau
+  url: https://ortenau.freifunk.net
+oldenburg:
+  name: Freifunk Nordwest
+  url: http://www.ffnw.de
+oschatz:
+  name: Freifunk Oschatz
+  url: http://www.freifunk-mittelsachsen.de
+osnabrueck:
+  name: Freifunk Osnabrück
+  url: http://osnabrueck.freifunk.net/
+overath:
+  name: Freifunk gl.wupper
+  url: http://gl.wupper.freifunk-rheinland.net
+paderborn:
+  name: Freifunk Hochstift
+  url: https://hochstift.freifunk.net/
+pinneberg:
+  name: Freifunk Pinneberg
+  url: https://pinneberg.freifunk.net
+plauen:
+  name: Freifunk Vogtland
+  url: http://www.freifunk-vogtland.net
+ploen:
+  name: Freifunk Plön
+  url: https://ploen.freifunk.net
+potrems:
+  name: Freifunk Potrems
+  url: https://www.opennet-initiative.de/
+potsdam:
+  name: Freifunk Potsdam e.V.
+  url: http://potsdam.freifunk.net
+pulheim:
+  name: Freifunk Rhein-Erft
+  url: http://freifunk-rhein-erft.de
+quedlinburg:
+  name: Freifunk Quedlinburg
+  url: https://harz.freifunk.net
+radevormwald:
+  name: Freifunk Radevormwald
+  url: http://freifunk-radevormwald.de/
+raesfeld:
+  name: Freifunk Raesfeld
+  url: http://freifunk-ruhrgebiet.de
+ratingen:
+  name: Freifunk Ratingen
+  url: http://www.freifunk-ratingen.de
+recklinghausen:
+  name: Freifunk Emscherland
+  url: http://freifunk-ruhrgebiet.de
+regensburg:
+  name: Freifunk Regensburg e.V.
+  url: https://regensburg.freifunk.net
+rehau:
+  name: Freifunk Rehau
+  url: https://freifunk-franken.de/
+reihen:
+  name: Freifunk Reihen
+  url: http://freifunk.reihen.de
+reinbek:
+  name: Freifunk Stormarn
+  url: https://freifunk-stormarn.de
+reinshagen:
+  name: Freifunk Reinshagen
+  url: https://www.opennet-initiative.de/
+remscheid:
+  name: Freifunk Remscheid
+  url: http://freifunk-remscheid.de
+rendsburg-eckernfoerde:
+  name: Freifunk Rendsburg-Eckernfoerde
+  url: https://nord.freifunk.net
+rheinbach:
+  name: freifunk-rheinbach
+  url: http://freifunk-rheinbach.de
+rheinfelden-ch:
+  name: Freifunk Hochrhein-Hotzenwald
+  url: https://freifunk-3laendereck.net
+rheinfelden-de:
+  name: Freifunk Hochrhein-Hotzenwald
+  url: https://freifunk-3laendereck.net
+roebel-mueritz:
+  name: Müritz
+  url: http://mueritz.freifunk.net/
+rostock:
+  name: Freifunk Rostock
+  url: https://www.opennet-initiative.de/
+rothenburg:
+  name: 'Freifunk Rothenburg '
+  url: 'http://freifunk-rothenburg.de '
+ruppichteroth:
+  name: Freifunk Ruppichteroth
+  url: http://www.freifunk-rhein-sieg.de/
+saarbruecken:
+  name: Freifunk Saarbrücken
+  url: https://saar.freifunk.net/saarbruecken/
+saarlouis:
+  name: Freifunk Saarlouis
+  url: https://saar.freifunk.net/saarlouis/
+saarpfalz:
+  name: Freifunk Saarpfalz
+  url: https://saar.freifunk.net/saarpfalz/
+salzwedel:
+  name: Freifunk Altmark
+  url: http://wiki.freifunk.net/Freifunk_Altmark
+sankt andreasberg:
+  name: Sankt Andreasberg
+  url: https://harz.freifunk.net/
+sanktaugustin:
+  name: Freifunk Sankt-Augustin
+  url: http://www.freifunk-rhein-sieg.de/
+schleswig:
+  name: Freifunk Schleswig
+  url: https://nord.freifunk.net
+schoenau-im-schwarzwald:
+  name: Freifunk Wiesental
+  url: https://freifunk-3laendereck.net
+schoeneck:
+  name: Freifunk Vogtland
+  url: http://www.freifunk-vogtland.net
+schoeningen:
+  name: Freifunk Schöningen
+  url: http://freifunk-schoeningen.de
+schoeppenstedt:
+  name: Freifunk Schöppenstedt
+  url: http://freifunk-schoeppenstedt.de
+schopfheim:
+  name: Freifunk Wiesental
+  url: https://freifunk-3laendereck.net
+schwabach:
+  name: Freifunk Schwabach
+  url: http://www.freifunk-schwabach.de/
+schwerin:
+  name: Freifunk Schwerin
+  url: https://www.opennet-initiative.de/
+schwerte:
+  name: Freifunk Schwerte
+  url: http://freifunk-ruhrgebiet.de
+segeberg:
+  name: Freifunk Segeberg
+  url: https://nord.freifunk.net
+selm:
+  name: Freifunk Selm
+  url: http://www.freifunk-selm.de
+siegburg:
+  name: Freifunk Siegburg
+  url: http://www.freifunk-rhein-sieg.de/
+siegen:
+  name: Freifunk Siegen
+  url: https://siegerland.freifunk.net/
+soest:
+  name: Freifunk Soest
+  url: http://www.freifunk-moehne.de
+st-wendel:
+  name: Freifunk St. Wendel
+  url: https://saar.freifunk.net/st-wendel/
+stade:
+  name: Freifunk Stade
+  url: https://stade.freifunk.net
+steinburg:
+  name: Freifunk Steinburg
+  url: https://nord.freifunk.net
+straelen:
+  name: Freifunk Straelen
+  url: http://freifunk.straelen.eu
+stuttgart:
+  name: Freifunk Stuttgart
+  url: http://freifunk-stuttgart.de
+suhl:
+  name: Freifunk Suhl
+  url: https://freifunk-suhl.de/
+sundern:
+  name: Freifunk Sundern
+  url: http://www.sundern-sorpesee.de/Stadtmarketing/Freifunk-Sundern
+sylt:
+  name: Freifunk Sylt
+  url: https://nord.freifunk.net
+tarp:
+  name: Freifunk Tarp
+  url: http://oktarp.de/category/freifunk
+tettnang:
+  name: Freifunk Tettnang
+  url: http://www.freifunk-tettnang.de
+thale:
+  name: Freifunk Thale
+  url: https://harz.freifunk.net
+tressow:
+  name: Müritz
+  url: http://mueritz.freifunk.net/
+treuchtlingen:
+  name: Freifunk Treuchtlingen
+  url: http://www.freifunk-treuchtlingen.de/
+trier:
+  name: Freifunk Trier
+  url: http://trier.freifunk.net
+troisdorf:
+  name: Freifunk Troisdorf
+  url: https://freifunk-troisdorf.de
+tuttlingen:
+  name: Freifunk Tuttlingen
+  url: https://freifunk-tuttlingen.de
+uelzen:
+  name: Freifunk Uelzen
+  url: https://www.freifunk-uelzen.de
+ulm:
+  name: Freifunk Ulm
+  url: http://www.freifunk-ulm.de
+unna:
+  name: Unna
+  url: https://unna.freifunk.net/
+velbert:
+  name: Velbert
+  url: http://freifunk-neanderfunk.de/
+viersen:
+  name: Freifunk Viersen
+  url: http://freifunk-ruhrgebiet.de
+voerde:
+  name: Freifunk Voerde
+  url: http://freifunk-ruhrgebiet.de
+wachtberg:
+  name: Freifunk Wachtberg
+  url: http://www.freifunk-rhein-sieg.de/
+wahlsdorf:
+  name: Wahlsdorf
+  url: http://wahlsdorf.freifunk.net
+waldheim:
+  name: Freifunk Waldheim
+  url: http://www.freifunk-waldheim.de
+waren-mueritz:
+  name: Müritz
+  url: http://mueritz.freifunk.net/
+warendorf:
+  name: Freifunk im Kreis Warendorf
+  url: https://freifunk-muensterland.de/category/region/warendorf/
+warstein:
+  name: Freifunk Warstein
+  url: http://www.freifunk-moehne.de
+wehr:
+  name: Freifunk Hochrhein-Hotzenwald
+  url: https://freifunk-3laendereck.net
+weil-am-rhein:
+  name: Freifunk Dreiland
+  url: https://freifunk-3laendereck.net
+weimarnetz:
+  name: weimarnetz
+  url: http://www.weimarnetz.de
+weinstadt:
+  name: weinstadt
+  url: http://freifunk-weinstadt.de
+wentzwiller:
+  name: Freifunk Dreiland
+  url: https://freifunk-3laendereck.net
+werl:
+  name: Freifunk Werl
+  url: http://www.freifunk-moehne.de
+wermelskirchen:
+  name: Freifunk Wermelskirchen
+  url: http://freifunk-wermelskirchen.de
+werne:
+  name: Freifunk Werne
+  url: http://freifunk-ruhrgebiet.de
+wernigerode:
+  name: Freifunk Wernigerode
+  url: https://harz.freifunk.net
+wesel:
+  name: Freifunk Kreis Wesel
+  url: http://freifunk-ruhrgebiet.de
+weyher:
+  name: Freifunk Weyher
+  url: http://www.freifunk-weyher.de
+wien:
+  name: FunkFeuer Wien
+  url: https://www.funkfeuer.at
+wiesbaden:
+  name: Freifunk Wiesbaden
+  url: http://wiesbaden.freifunk.net
+wiesenburg:
+  name: freifunk wiesenburg
+  url: wiesenburg.freifunk.net
+wilhelmshaven:
+  name: Freifunk Wilhelmshaven
+  url: https://www.facebook.com/freifunk.fri.whv
+willich:
+  name: Freifunk Willich
+  url: http://freifunk-ruhrgebiet.de
+winterberg:
+  name: Freifunk Winterberg
+  url: http://www.freifunk-winterberg.net
+wipperfuerth:
+  name: Freifunk Wipperfürth
+  url: http://freifunk-wipperfuerth.de
+wismar:
+  name: Freifunk Wismar
+  url: https://www.opennet-initiative.de/
+wittmund:
+  name: Freifunk Wittmund
+  url: http://wittmund-freifunk.de/
+wokern:
+  name: Freifunk Wokern
+  url: https://www.opennet-initiative.de/
+wuerzburg:
+  name: Freifunk Würzburg
+  url: https://freifunk-franken.de/
+wuppertal:
+  name: Freifunk Wuppertal
+  url: http://www.freifunk-wuppertal.net
+wyhlen:
+  name: Freifunk Dreiland
+  url: https://freifunk-3laendereck.net
+xanten:
+  name: Freifunk Xanten
+  url: http://freifunk-ruhrgebiet.de
+zootzen:
+  name: Freifunk Zootzen
+  url: http://www.freifunk-gadow.de
+zuerich:
+  name: Freifunk Dreiländereck
+  url: https://freifunk-3laendereck.net

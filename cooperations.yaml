@@ -1,0 +1,18 @@
+- commune: Musterstadt
+  geo: [51.1234, 10.1234]
+  cooperations:
+  - name: Versorgung von Unterkünften
+    community: aachen # as seen in https://github.com/freifunk/directory.api.freifunk.net/blob/master/directory.json
+    description: Die Stadt Aachen stellt Hardware zur Verfügung.
+    type: refugees
+    start: 2016-08-22
+    weblinks:
+    - Freies WLAN für Geflüchtete: https://musterstadt.de/refugees-welcome/
+    - Flüchtlingsfunk: https://musterzeitung.de/content/fluchtfunk/
+  - name: WLAN im Rathaus
+    community: aachen
+    description: Die Stadt Musterstadt betreibt nun im Rathaus einen Freifunk-Knoten für die Besucher des Einwohnermeldeamtes.
+    type: hotspot
+    start: 2016-08-22
+    weblinks:
+    - Kooperation in Musterstadt: https://musterstadt.de/freifunk-im-rathaus/

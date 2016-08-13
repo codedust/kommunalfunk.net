@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Freifunk-Projekte mit Kommunen</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="vendor/leaflet/leaflet.css" />
+  <link rel="stylesheet" type="text/css" href="css/app.css" />
+</head>
+<body>
+  <div id="map" class="map"></div>
+  <div class="sidebar left">
+    <h1>Freifunk-Projekte mit kommunaler Beteiligung</h1>
+    <p>Hier findet sich eine Übersicht über alle Kooperationen von Freifunkern mit Kommunen. Du weißt von einer Kooperation, die hier nicht aufgeführt ist? <a href="https://github.com/codedust/kommunalfunk.net/issues">Schreib' uns!</a></p>
+    <select id="select-project-type">
+      <option value="-">Filter: alle Projekte anzeigen</option>
+      <option value="refugees">Versorgung von Geflüchteten</option>
+      <option value="hotspot">Betrieb von Freifunk-Routern</option>
+      <option value="backbone">Bereitstellung von Immobilien</option>
+    </select>
+    <hr>
+    <p><a href="#" onclick="$('.popup.about').toggle()">
+      Über dieses Projekt
+    </a></p>
+  </div>
+  <div class="popup about initiallyhidden">
+    <h2>Über dieses Projekt</h2>
+    <p>Dieses Projekt ist <a href="https://github.com/codedust/kommunalfunk.net">Freie Software</a>. Sie können es unter den Bedingungen der GNU Affero General Public License, wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Wahl) jeder späteren Version.</p>
+    <p>Die Veröffentlichung dieses Programms erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE, sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK. Details finden Sie in der GNU Affero General Public License.</p>
+
+    <h3>Bibliotheken</h3>
+    Dieses Projekt nutzt:
+    <ul>
+      <li><a href="http://leafletjs.com/">Leaflet</a> (<a href="https://github.com/Leaflet/Leaflet/blob/master/LICENSE">BSD license</a>)</li>
+      <li><a href="https://jquery.com/">jQuery</a> (<a href="https://github.com/jquery/jquery/blob/master/LICENSE.txt">MIT License</a>)</li>
+      <li><a href="https://nodeca.github.io/js-yaml/">JS-YAML</a> (<a href="https://github.com/nodeca/js-yaml/blob/master/LICENSE">MIT License</a>)</li>
+      <li><a href="https://mustache.github.io/">mustache.js</a> (<a href="https://github.com/janl/mustache.js/blob/master/LICENSE">MIT License</a>)</li>
+    </ul>
+  </div>
+
+  <script id="template-commune" type="x-tmpl-mustache">
+    {{#data}}
+    <h2>{{commune}}</h2>
+    {{#cooperations}}
+    <div class="cooperation type-{{type}}">
+      <h3>{{name}}</h3>
+      <span>Community: {{#getCommunity}}{{/getCommunity}}</span>
+      <span>Kooperationsbeginn: {{#date}}{{/date}}</span>
+      <p>{{description}}</p>
+      <hr>
+      {{#weblinks}}
+        <a href="{{#getKeyValue}}value{{/getKeyValue}}" class="weblink">
+          <span class="title">{{#getKeyValue}}key{{/getKeyValue}}</span>
+          <span class="url">{{#getKeyValue}}value{{/getKeyValue}}</span>
+        </a>
+      {{/weblinks}}
+    </div>
+    {{/cooperations}}
+    {{/data}}
+  </script>
+
+  <script src="vendor/js-yaml.min.js"></script>
+  <script src="vendor/jquery-3.1.0.min.js"></script>
+  <script src="vendor/mustache.min.js"></script>
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

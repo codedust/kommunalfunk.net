@@ -1,0 +1,76 @@
+body {
+  background: #111;
+  font-family: sans-serif;
+}
+
+.initiallyhidden {
+  display: none;
+}
+
+hr {
+  border: 1px solid #ddd;
+  border-bottom: none;
+}
+
+.map {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 20%;
+  max-height: 100%;
+  background: white;
+  background: rgba(255, 255, 255, 0.85);
+  padding: .5em 1.5em 1em .5em;
+  margin: 0;
+}
+
+.popup {
+  position: absolute;
+  top: 5%;
+  right: 30%;
+  left: 30%;
+  max-height: 80%;
+  background: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 1em #ddd;
+  padding: 1em;
+}
+
+.cooperation {
+  margin: 1em 0;
+  padding: 0 .5em .5em .5em;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 1em #ddd;
+}
+
+.cooperation span {
+  display: block;
+}
+
+.cooperation .weblink {
+  display: inline-block;
+  text-decoration:none;
+  padding: .5em 0;
+}
+
+.cooperation .weblink .title {
+  display: block;
+}
+
+.cooperation .weblink:hover .title {
+  text-decoration: underline;;
+}
+
+.cooperation .weblink .url {
+  display: block;
+  color: #777;
+  font-style: italic;
+}
