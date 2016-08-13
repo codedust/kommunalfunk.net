@@ -44,6 +44,12 @@ hr {
   padding: 1em;
 }
 
+.leaflet-popup-content-wrapper {
+  max-height: 70vh;
+  overflow: auto;
+  padding: .5em;
+}
+
 .cooperation {
   margin: 1em 0;
   padding: 0 .5em .5em .5em;
