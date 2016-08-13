@@ -21,14 +21,12 @@
     dataType: "text"
   }).done(function(data) {
     communities = jsyaml.load(data);
-    console.log('Loaded communities.');
 
     $.ajax({
       url: "./cooperations.yaml",
       dataType: "text"
     }).done(function(data) {
       communes = jsyaml.load(data);
-      console.log('Loaded cooperations.');
       showCooperations();
     }).fail(function(){
       console.log("Could not fetch cooperation data.");
@@ -57,6 +55,19 @@
 
     for (var id in communes) {
       var commune = communes[id];
+
+      if (!commune.hasOwnProperty('geo')) {
+        console.log('Missing "geo" attribute', commune);
+        continue;
+      }
+      if (!(commune.geo instanceof Array)) {
+        console.log('Attribute "geo" is not an array', commune);
+        continue;
+      }
+      if (commune.geo.length != 2) {
+        console.log('Attribute "geo" is of wrong length', commune);
+        continue;
+      }
 
       // only show markers for communes with projects of the filtered type
       if (filteredType != "-") {
@@ -98,6 +109,7 @@
         "data": commune
       };
       var rendered = Mustache.render(template, view);
+
       var marker = L.marker(commune.geo);
       markers.push(marker);
       marker.addTo(map).bindPopup(rendered).on('click', updateProjects);
