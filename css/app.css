@@ -47,9 +47,9 @@ hr {
 @media only screen and (max-device-width: 599px) {
   .sidebar {
     top: auto;
+    right: 0;
     bottom: 0;
     height: 30%;
-    width: 100%;
     max-width: 100%;
     overflow: auto;
   }
