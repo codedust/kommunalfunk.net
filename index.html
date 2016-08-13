@@ -41,7 +41,7 @@
     {{#data}}
     <h2>{{commune}}</h2>
     {{#cooperations}}
-    <div class="cooperation type-{{type}}">
+    <div class="cooperation {{#type}}type-{{.}} {{/type}}">
       <h3>{{name}}</h3>
       <span>Community: {{#getCommunity}}{{/getCommunity}}</span>
       <span>Kooperationsbeginn: {{#date}}{{/date}}</span>

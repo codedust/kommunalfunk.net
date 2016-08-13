@@ -63,7 +63,7 @@
       if (filteredType != "-") {
         var nonFilteredProjectFound = false;
         for (var p in commune.cooperations) {
-          if (commune.cooperations[p].type == filteredType) {
+          if ($.inArray(filteredType, commune.cooperations[p].type) != -1) {
             nonFilteredProjectFound = true;
           }
         }

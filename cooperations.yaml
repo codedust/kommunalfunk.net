@@ -1,18 +1,74 @@
-- commune: Musterstadt
-  geo: [51.1234, 10.1234]
+- commune: Arnsberg
+  geo: [51.4231, 8.0372]
   cooperations:
-  - name: Versorgung von Unterkünften
-    community: aachen # as seen in https://github.com/freifunk/directory.api.freifunk.net/blob/master/directory.json
-    description: Die Stadt Aachen stellt Hardware zur Verfügung.
-    type: refugees
-    start: 2016-08-22
-    weblinks:
-    - Freies WLAN für Geflüchtete: https://musterstadt.de/refugees-welcome/
-    - Flüchtlingsfunk: https://musterzeitung.de/content/fluchtfunk/
-  - name: WLAN im Rathaus
-    community: aachen
-    description: Die Stadt Musterstadt betreibt nun im Rathaus einen Freifunk-Knoten für die Besucher des Einwohnermeldeamtes.
-    type: hotspot
-    start: 2016-08-22
-    weblinks:
-    - Kooperation in Musterstadt: https://musterstadt.de/freifunk-im-rathaus/
+    - name: Freifunk in Arnsberg
+      community: arnsberg
+      description: In Arnsberg gibt es eine Kooperation mit dem Verkehrsverein Arnsberg e. V. und der Stadt, die auch selbst Freifunk-Router betreibt.
+      type: [backbone, hotspot]
+      start: 2014-06-14
+      weblinks:
+        - Freifunkzelle Arnsberg gegründet: http://www.arnsberg.de/baukultur/gute-beispiele/werkstatt_alter-markt/freifunk.php
+        - Verkehrsverein Arnsberg e.V. zu Freifunk: http://www.arnsberg-info.de/arnsberg/freizeitangebote/freifunk/
+- commune: Babenhausen
+  geo: [49.9565, 8.9460]
+  cooperations:
+    - name: Stadt Babenhausen beteiligt sich am Aufbau eines Freifunk-Netzes
+      community: darmstadt
+      description: Die Stadt Babenhausen beteiligt sich aktiv am Ausbau des dortigen Freifunk-Netzes und betreibt dabei selbst einige Knoten.
+      type: [hotspot, refugees]
+      start: 2016-05-05
+      weblinks:
+        - Offizielle Webseite von Freifunk Babenhausen: http://babenhausen.freifunk.net/
+        - Blog der Stadtverwaltung, in dem Freifunk erwähnt wird: https://blogs.babenhausen.de/2016/07/28/seite-2-vom-28-07-2016/
+- commune: Darmstadt
+  geo: [49.8730, 8.6512]
+  cooperations:
+    - name: Versorgung von Unterkünften für Geflüchtete in Kooperation mit der Stadt Darmstadt
+      community: darmstadt
+      description: Kooperation zur Versorgung der Unterkünfte für Geflüchtete in Darmstadt
+      type: [refugees]
+      start: 2015-10-08
+      weblinks:
+        - Freifunk-Initiative Darmstadt versorgt in Kooperation mit der Wissenschaftsstadt Darmstadt Flüchtlingsunterkünfte mit freiem WLAN: https://www.darmstadt.de/nachrichten/darmstadt-aktuell/news/freifunk-initiative-darmstadt-versorgt-in-kooperation-mit-der-wissenschaftsstadt-darmstadt-fluechtlingsunterkuenfte-mit-freiem-wlan/
+        - Stadt Darmstadt ehrt ehrenamtliches Engagement der Freifunker: https://darmstadt.freifunk.net/news/2016/04/26/ehrenurkunde/
+- commune: Ganderkesee
+  geo: [53.0464, 8.5303]
+  cooperations:
+    - name: Betrieb zahlreicher Knoten und finanzielle Unterstützung des Freifunk Nordwest e.V.
+      community: oldenburg
+      description: Die Gemeinde Ganderkesee betreibt selbst Freifunk-Router in vielen Kommmunalen Einrichtungen und fördert den lokalen Freifunk-Verein finanziell.
+      type: [hotspot]
+      start: 2014-10-02
+      weblinks:
+        - Freies WLAN für die Gemeinde Ganderkesee: https://www.gemeindeganderkesee.de/freifunk.html
+- commune: Künzell
+  geo: [50.5394, 9.7083]
+  cooperations:
+    - name: Abdeckung des Künzeller Gemeindezentrums
+      community: fulda
+      description: Die Gemeinde Künzell betreibt einen Freifunk-Knoten im Gemeindezentrum
+      type: [hotspot]
+      start: 2016-04-21
+      weblinks:
+        - 'Kostenlos surfen: Freifunk bringt WLAN ins Künzeller Gemeindezentrum': http://www.fuldaerzeitung.de/artikelansicht/artikel/4833828/kostenlos-surfen-freifunk-bringt-wlan-ins-kunzeller-gemeindezentrum-ortsmitte-und-rathaus-sollen-folgen
+- commune: Pettendorf
+  geo: [49.0456, 12.0063]
+  cooperations:
+    - name: Freifunk im Rathaus Pettendorf
+      community: regensburg
+      description: Als erste Gemeinde im Landkreis Regensburg unterstützt Pettendorf die Freifunk-Initiative durch den Betrieb eines Freifunk-Routers im Rathaus
+      type: [hotspot]
+      start: 2016-07-04
+      weblinks:
+        - Freifunk im Rathaus Pettendorf: https://regensburg.freifunk.net/news/article/freifunk-im-rathaus-pettendorf/
+        - Information zu Freifunk auf der Seite der Gemeinde Pettendorf: http://www.pettendorf.de/aktuelles/alle-meldungen/freifunk-im-bereich-des-rathauses/
+- commune: Stockstadt am Rhein
+  geo: [49.8073, 8.4683]
+  cooperations:
+    - name: Versorgung einer Unterkunft für Geflüchte
+      community: darmstadt
+      description: Die Gemeinde Stockstadt übernimmt die Kosten für die nötige Hardware zur Abdeckung einer Unterkunft
+      type: [refugees]
+      start: 2016-02-22
+      weblinks:
+        - Pressemitteilung zu einem Info-Stammtisch der Piratenpartei, in der die Unterkunft erwähnt wird: http://www.piratenpartei-gross-gerau.de/content/info-stammtisch-freies-wlan-f%C3%BCr-hausg%C3%A4ste-wie-geht-das
