@@ -51,6 +51,16 @@
       weblinks:
         - Freifunk-Initiative Darmstadt versorgt in Kooperation mit der Wissenschaftsstadt Darmstadt Flüchtlingsunterkünfte mit freiem WLAN: https://www.darmstadt.de/nachrichten/darmstadt-aktuell/news/freifunk-initiative-darmstadt-versorgt-in-kooperation-mit-der-wissenschaftsstadt-darmstadt-fluechtlingsunterkuenfte-mit-freiem-wlan/
         - Stadt Darmstadt ehrt ehrenamtliches Engagement der Freifunker: https://darmstadt.freifunk.net/news/2016/04/26/ehrenurkunde/
+- commune: Erlangen
+  geo: [49.5984, 11.0037]
+  cooperations:
+    - name: Freifunk in der Innenstadt
+      community: erlangen
+      description: Das City-Management baut zusammen mit dem eGovernment-Center der Stadt Erlangen und den Freifunkern Franken in der Innenstadt ein Freifunk-Netz auf.
+      type: [hotspot]
+      start: 2016-05-31
+      weblinks:
+        - Erlanger Innenstadt bietet kostenloses WLAN für Alle: http://www.erlangen-marketing.de/service/aktuelle_nachrichten/Innenstadt_WLAN.html
 - commune: Ganderkesee
   geo: [53.0464, 8.5303]
   cooperations:
