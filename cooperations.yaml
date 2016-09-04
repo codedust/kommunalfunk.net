@@ -26,7 +26,7 @@
     - name: Unterstützung durch die Stadt Bonn
       community: bonn
       description: Der Rat der Stadt Bonn hat am 23.02.2016 beschlossen, offene, freie und nicht kommerzielle WLAN-Netze (insbes. Freifunk) zu fördern. Dazu stellt die Stadt Internetzugänge, Immobilien als Richtfunk-Standorte und zweckgebunden finanzielle Mittel in Höhe von 15.000 EUR zur Versorgung von Unterkünften für Geflüchtete bereit.
-      type: [regugees, backbone, hotspot]
+      type: [refugees, backbone, hotspot]
       start: 2016-02-23
       weblinks:
         - Informationsseite der Stadt Bonn zu Freifunk: http://www.bonn.de/rat_verwaltung_buergerdienste/buergerdienste_online/freifunk_wlan_netz/index.html?lang=de
