@@ -58,13 +58,14 @@ hr {
 .popup {
   position: absolute;
   top: 5%;
-  right: 30%;
-  left: 30%;
+  right: 25%;
+  left: 25%;
   max-height: 80%;
   background: white;
   border: 1px solid #ddd;
   box-shadow: 0 0 1em #ddd;
   padding: 1em;
+  overflow: auto;
 }
 
 .leaflet-popup-content-wrapper {
