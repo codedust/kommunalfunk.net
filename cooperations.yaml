@@ -71,6 +71,16 @@
       start: 2014-10-02
       weblinks:
         - Freies WLAN für die Gemeinde Ganderkesee: https://www.gemeindeganderkesee.de/freifunk.html
+- commune: Groß-Gerau
+  geo: [49.9145, 8.4777]
+  cooperations:
+    - name: Freies WLAN für Geflüchtete in Groß-Gerau
+      community: darmstadt
+      description: Die Stadt Groß-Gerau unterstützt und finanzierte den Aufbau einer Freifunk-Installation in einer Unterkunft für Geflüchtete
+      type: [refugees]
+      start: 2016-09-10
+      weblinks:
+        - Freies WLAN für Geflüchtete in Groß-Gerau: https://darmstadt.freifunk.net/news/2016/09/12/sportpark-gg/
 - commune: Künzell
   geo: [50.5394, 9.7083]
   cooperations:
