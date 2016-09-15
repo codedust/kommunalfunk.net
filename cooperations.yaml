@@ -41,7 +41,7 @@
         - Historie in einer Präsentation von Freifunk KBU: https://kbu.freifunk.net/wiki/images/7/7a/KBU.Freifunk.pdf
         - Übersicht aller versorgten Unterkünfte im Freifunk-Wiki: https://wiki.freifunk.net/Freifunk_Hilft
 - commune: Chemnitz
-  geo: [50.55, 12.5]
+  geo: [50.8325, 12.9253]
   cooperations:
     - name: Brühlboulevard
       community: chemnitz
@@ -52,7 +52,7 @@
         - Blogeintrag: https://www.chemnitz.freifunk.net/der-bruehl-belebt-sich/
     - name: Stadtratsbeschluss
       community: chemnitz
-      description: Stadtratsbeschluss, Freifunk Chemnitz e.V. zu unterstützen durch Bereitstellung von Fassaden/Dachflächen auf städtinen Liegenschaften.
+      description: Stadtratsbeschluss, Freifunk Chemnitz e.V. zu unterstützen durch Bereitstellung von Fassaden/Dachflächen auf städtischen Liegenschaften.
       type: [backbone, hotspot]
       start: 2013-12-18
       weblinks:
