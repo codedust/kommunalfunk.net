@@ -14,12 +14,13 @@
   cooperations:
     - name: Stadt Babenhausen beteiligt sich am Aufbau eines Freifunk-Netzes
       community: darmstadt
-      description: Die Stadt Babenhausen beteiligt sich aktiv am Ausbau des dortigen Freifunk-Netzes und betreibt dabei selbst einige Knoten.
+      description: Die Stadt Babenhausen beteiligt sich aktiv am Ausbau des dortigen Freifunk-Netzes und betreibt dabei selbst einige Knoten. Auch die Hessische Erstaufnahmeeinrichtung (HEAE) wird, unterstützt von der Stadt, mit Freifunk versorgt.
       type: [hotspot, refugees]
       start: 2016-05-05
       weblinks:
         - Offizielle Webseite von Freifunk Babenhausen: http://babenhausen.freifunk.net/
         - Blog der Stadtverwaltung, in dem Freifunk erwähnt wird: https://blogs.babenhausen.de/2016/07/28/seite-2-vom-28-07-2016/
+        - Freies WLAN dank Flüchtlingen: https://www.op-online.de/region/babenhausen/freifunk-initiative-sorgt-freien-wlan-zugang-dank-fluechtlingen-6816222.html
 - commune: Bonn
   geo: [50.7361, 7.1007]
   cooperations:
