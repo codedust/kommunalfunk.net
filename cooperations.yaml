@@ -41,6 +41,16 @@
       weblinks:
         - Historie in einer Präsentation von Freifunk KBU: https://kbu.freifunk.net/wiki/images/7/7a/KBU.Freifunk.pdf
         - Übersicht aller versorgten Unterkünfte im Freifunk-Wiki: https://wiki.freifunk.net/Freifunk_Hilft
+- commune: Büttelborn
+  geo: [49.90223, 8.51375]
+  cooperations:
+    - name: Büttelborn richtet kostenlose Internetzugänge auf öffentlichen Plätzen ein
+      community: darmstadt
+      description: Mit Unterstützung der Darmstädter Freifunker betreibt die Kommune Büttelborn eigenständig öffentliche Freifunk-Zugänge. Außerdem ist die Gemeinde auf freiwilliger Basis Fördermitglied im Chaos Darmstadt e.V. geworden, der Freifunk in Darmstadt und Umgebung durch Bildungs- und Informationsveranstaltungen fördert.
+      type: [hotspot]
+      start: 2017-01-16
+      weblinks:
+        - Büttelborn richtet kostenlose Internetzugänge auf öffentlichen Plätzen ein: http://www.echo-online.de/lokales/kreis-gross-gerau/buettelborn/buettelborn-richtet-kostenlose-internetzugaenge-auf-oeffentlichen-plaetzen-ein_17689851.htm
 - commune: Chemnitz
   geo: [50.8325, 12.9253]
   cooperations:
